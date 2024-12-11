@@ -1,0 +1,16 @@
+The presentation focuses on improving board communications, especially regarding artificial intelligence (AI) strategies. It emphasizes the importance of having effective board conversations, utilizing an acronym - brief, open, accurate, relevant, and diplomatic - to guide presentations.
+
+Key points include:
+
+- Brevity in Communication : The presentation stresses the need for concise information, highlighting that board members prefer shorter documents, averaging around 40 pages, to facilitate oversight while allowing for meaningful discussion (citation:1).
+Openness About AI Strategies: Boards increasingly question whether their organizations are moving swiftly and effectively in adopting AI. The presentation encourages CIOs to clearly articulate the aggressiveness of their AI strategies and how they stack up against competitors (citation:2).
+
+- Evolving Board Interests: Initially, boards expressed curiosity about what AI is. However, there has been a shift towards risk assessment and seeking financial justification for AI investments (citation:3).
+
+- Effective Use of Visuals: The value of visual aids is stressed, as they can enhance understanding and provoke significant discussions among board members (citation:4).
+
+- Connecting AI to Financial Impact: It's crucial to relate AI discussions to financial statements, as board members want clarity on the financial implications of AI strategies (citation:5).
+
+- Diplomacy and Expectation Management: The volatile nature of AI requires CIOs to set and reset expectations with their boards continually. This includes guiding boards on how they can effectively oversee AI developments (citation:5).
+
+Overall, the presentation offers strategies for presenting complex AI topics in a way that engages board members and fosters substantial dialogue.

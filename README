@@ -1,0 +1,5 @@
+# Director of Innovation Thought Exercise
+
+- `/pdf` folder has been ignored, this is a folder of all the pdfs downloaded from Gartner
+- `/videos` folder has been ignored, but can be extracted from the site with Python scripts
+- `Extraction` is the notebook file
